@@ -58,6 +58,7 @@ read pilih
 if [ $pilih = "y" ];
 then
 sleep 2
+termux-open-url "https://www.youtube.com/channel/UCEmNhaHoLSbxmthbrg4-OYA"
 echo "Thank you for subscribing to the Teacher SAA channel"
 sleep 2
 clear
